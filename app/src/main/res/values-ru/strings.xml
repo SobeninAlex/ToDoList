@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="save">Сохранить</string>
+    <string name="enter_note_hint">Введите заметку</string>
+    <string name="low_priority">Низккий</string>
+    <string name="medium_priority">Средний</string>
+    <string name="high_priority">Высокий</string>
+    <string name="error_field_empty">Пожалуйста заполните поле ввода!</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="save">SAVE</string>
+    <string name="enter_note_hint">Enter note:</string>
+    <string name="low_priority">Low</string>
+    <string name="medium_priority">Medium</string>
+    <string name="high_priority">High</string>
+    <string name="error_field_empty">Please enter field!</string>
+</resources>
