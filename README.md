@@ -9,4 +9,4 @@
 - Room
 - RxJava
 
-<img alt="untitled.gif" src="files%2Funtitled.gif" width="500"/>
+<img alt="untitled.gif" src="files%2Funtitled.gif" width="400"/>
