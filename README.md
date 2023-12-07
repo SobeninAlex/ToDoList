@@ -8,5 +8,4 @@
 ### Используется:
 - Room
 - RxJava
-
 ![untitled.gif](files%2Funtitled.gif)
